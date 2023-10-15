@@ -1,6 +1,6 @@
 ## Welcome!
 
-We are Reciprocol.org, a community of academics interested more sustainable, reciprocol peer review. We're just building out this platform and community, so for now, check out the [reviewer reciprocity proposal](https://docs.google.com/document/d/1RHirbCdQFxBeCbjAAbba1MJtxDOG4cuml66_xWGgXAI/edit#heading=h.gtlebyp3cvjf) that Amy Ko wrote for the ACM Transactions on Computing Education journal. It describes the vision and rationale for the project. Eventually, we'll migrate those details here.
+We are Reciprocal, a community of researchers and academics interested more sustainable, reciprocal, equitable academic peer review. We're just building out this platform and community, so for now, check out the [reviewer reciprocity proposal](https://docs.google.com/document/d/1RHirbCdQFxBeCbjAAbba1MJtxDOG4cuml66_xWGgXAI/edit#heading=h.gtlebyp3cvjf) that Amy Ko wrote for the ACM Transactions on Computing Education journal. It describes the vision and rationale for the project. Eventually, we'll migrate those details here.
 
 Currently, there are five contributors to this effort:
 
