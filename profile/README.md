@@ -10,4 +10,6 @@ Currently, there are five contributors to this effort:
 * [Dennis Bouvier](djb@acm.org) (Air Force Academy), design, data manangement
 * [Francesco Maiorana](fmaioran@gmail.com) (University of Catania), policy, localization
 
+You're welcome to join [our Discord](https://discord.gg/GzdCGzWMrj) to talk more about this effort.
+
 Write Amy to learn more.
