@@ -13,3 +13,9 @@ Currently, there are five contributors to this effort:
 You're welcome to join [our Discord](https://discord.gg/GzdCGzWMrj) to talk more about this effort.
 
 Write Amy to learn more.
+
+## Related Efforts
+
+There are many other efforts to improve peer review. The list below is not complete, its just a growing list of efforts that we've spent some time understanding. Feel free to suggest others.
+
+* [Peer Community In](https://rr.peercommunityin.org/about) is a community that conducts registered report peer reviews via pre-prints, prior to publication.
