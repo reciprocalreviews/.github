@@ -20,3 +20,4 @@ There are many other efforts to improve peer review. The list below is not compl
 
 * [Peer Community In](https://rr.peercommunityin.org/about) is a community that conducts registered report peer reviews via pre-prints, prior to publication.
 * [Open Review](https://openreview.net/) is a community effort amplifying open science efforts, particularly open review, discussion, and publishing.
+* [Review Quality Collector (RCQ)](https://reviewqualitycollector.org/) offers reviewers receipts for their work, which can be used to assess quality, document contributions for promotion purposes.
