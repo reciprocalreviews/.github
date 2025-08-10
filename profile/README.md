@@ -7,8 +7,6 @@ Currently, there are five contributors to this effort:
 * [Amy Ko](mailto:ajko@uw.edu) (University of Washington), project management, design, and front end
 * [Jérémie Lumbroso](mailto:lumbroso@cis.upenn.edu) (University of Pennsylvania), design, back end and ops
 * [Andrew Petersen](mailto:andrew.petersen@utoronto.ca) (University of Toronto), policy
-* [Dennis Bouvier](djb@acm.org) (Air Force Academy), design, data manangement
-* [Francesco Maiorana](fmaioran@gmail.com) (University of Catania), policy, localization
 
 You're welcome to join [our Discord](https://discord.gg/GzdCGzWMrj) to talk more about this effort.
 
