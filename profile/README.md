@@ -8,7 +8,7 @@ Currently, there are five contributors to this effort:
 * [Jérémie Lumbroso](mailto:lumbroso@cis.upenn.edu) (University of Pennsylvania), design, back end and ops
 * [Andrew Petersen](mailto:andrew.petersen@utoronto.ca) (University of Toronto), policy
 
-You're welcome to join [our Discord](https://discord.gg/GzdCGzWMrj) to talk more about this effort.
+Would you like to chat with us, other contributors, or other folks interested in sustainable peer review? [Write Amy](mailto:ajko@uw.edu?subject=Slack%20invite?) an email and we'll send you an invite to [our Slack](https://reciprocalreviews.slack.com).
 
 Write Amy to learn more.
 
