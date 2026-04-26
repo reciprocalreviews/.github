@@ -6,6 +6,7 @@ Current contributors to this effort include:
 
 * [Amy Ko](mailto:ajko@uw.edu) (University of Washington), project management, design, and front end
 * [Jérémie Lumbroso](mailto:lumbroso@cis.upenn.edu) (University of Pennsylvania), design, back end and ops
+* [Jack Forden[(jforden@carrollu.edu>) (Carroll University), development
 * [Andrew Petersen](mailto:andrew.petersen@utoronto.ca) (University of Toronto), policy
 
 Would you like to chat with us, other contributors, or other folks interested in sustainable peer review? [Write Amy](mailto:ajko@uw.edu?subject=Slack%20invite?) an email and we'll send you an invite to [our Slack](https://reciprocalreviews.slack.com).
